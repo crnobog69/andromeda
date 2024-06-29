@@ -1,4 +1,4 @@
-# HTML Redirect Primer 🌐 / Верзија на српском
+# HTML Redirect 🌐 / Верзија на српском
 
 Овај репозиторијум садржи једноставан пример HTML фајла са редиректом.
 
@@ -24,7 +24,7 @@ HTML фајл `index.html` у овом репозиторијуму демонс
 
 ---
 
-# HTML Redirect Example 🌐 / Version on English
+# HTML Redirect 🌐 / Version on English
 
 This repository contains a simple example of an HTML file with a redirect.
 
