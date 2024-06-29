@@ -8,7 +8,7 @@ HTML фајл `index.html` у овом репозиторијуму демонс
 
 ## Како ради? 🔄
 
-Када посетилац посети ову HTML страницу, одмах ће бити преусмерен на другу локацију, специфичну URL адресу која је подешена у мета тагу `<meta http-equiv="refresh" content="0; url=https://aniwave.to/watch/bleach-sennen-kessen-hen-ketsubetsu-tan.6l0o0/ep-11" />`.
+Када посетилац посети ову HTML страницу, одмах ће бити преусмерен на другу локацију, специфичну URL адресу која је подешена у мета тагу `<meta http-equiv="refresh" content="0; url=https://search.brave.com/" />`.
 
 ## Пример 📄
 
@@ -34,7 +34,7 @@ The HTML file `index.html` in this repository demonstrates how to set up a redir
 
 ## How it works? 🔄
 
-When a visitor accesses this HTML page, they will immediately be redirected to another location, a specific URL set in the meta tag `<meta http-equiv="refresh" content="0; url=https://aniwave.to/watch/bleach-sennen-kessen-hen-ketsubetsu-tan.6l0o0/ep-11" />`.
+When a visitor accesses this HTML page, they will immediately be redirected to another location, a specific URL set in the meta tag `<meta http-equiv="refresh" content="0; url=https://search.brave.com/" />`.
 
 ## Example 📄
 
